@@ -1,6 +1,6 @@
 Name:             st-desktop
 Version:          0.0.1
-Release:          1
+Release:          2
 Summary:          Desktop file for st
 License:          MIT
 URL:              https://github.com/zapster/st-desktop
