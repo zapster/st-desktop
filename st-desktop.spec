@@ -4,7 +4,7 @@ Release:          1
 Summary:          Desktop file for st
 License:          MIT
 URL:              https://github.com/zapster/st-desktop
-Source0:          st.desktop
+Source0:          st-desktop.desktop
 Source1:          st.svg
 BuildArch:        noarch
 BuildRequires:    desktop-file-utils
@@ -35,5 +35,5 @@ if [ -x %{_bindir}/gtk-update-icon-cache ] ; then
 fi
 
 %files
-%{_datadir}/applications/st.desktop
+%{_datadir}/applications/%{name}.desktop
 %{_datadir}/icons/hicolor/*

@@ -4,5 +4,5 @@ Comment=st is a simple virtual terminal emulator for X which sucks less
 Exec=st
 Terminal=false
 Type=Application
-Icon=st
+Icon=st-desktop
 Categories=System;TerminalEmulator;
